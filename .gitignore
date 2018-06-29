@@ -1,0 +1,10 @@
+node_modules/
+local.log
+error-shots/
+reports/
+.vscode/
+.idea/
+allure-results/
+allure-report/
+npm.debug.log
+npm-debug.log
