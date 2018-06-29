@@ -28,7 +28,7 @@
     "sync-request": "^4.0.3",
     "webdriverio": "^4.4.0"
   },
-  "author": "Prasanjit Mohanty",
+  "author": "Nihar",
   "devDependencies": {
     "allure-js-commons": "^1.3.0",
     "chai": "^3.5.0",
