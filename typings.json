@@ -1,0 +1,6 @@
+{
+  "globalDependencies": {
+    "node": "registry:dt/node#6.0.0+20161121110008",
+    "webdriverio": "registry:dt/webdriverio#4.0.4+20160724073345"
+  }
+}
